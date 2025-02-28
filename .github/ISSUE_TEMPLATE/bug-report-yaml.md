@@ -1,9 +1,9 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
+name: Bug report YAML
+about: Create a report to help us improve
+title: YAMLprova
 labels: bug
-assignees: ''
+assignees: AngelaFavaro
 
 ---
 
